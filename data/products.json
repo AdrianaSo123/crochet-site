@@ -1,0 +1,74 @@
+[
+  {
+    "id": "chunky-blanket-001",
+    "name": "Chunky Knit Throw Blanket",
+    "price": 85,
+    "category": "home",
+    "image": "https://picsum.photos/seed/blanket1/600/600",
+    "imageAlt": "A warm chunky knit throw blanket in cream and oat tones draped over a couch",
+    "description": "Wrap yourself in warmth with this handmade chunky knit throw blanket. Each blanket is lovingly crafted using extra-thick yarn, making it the perfect cozy companion for movie nights or chilly mornings. Available in cream, oat, and dusty rose. No two are exactly alike.",
+    "shortDescription": "Handmade extra-thick throw blanket, perfect for chilly evenings.",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": "amigurumi-bear-002",
+    "name": "Amigurumi Teddy Bear",
+    "price": 32,
+    "category": "toys",
+    "image": "https://picsum.photos/seed/bear22/600/600",
+    "imageAlt": "A small crocheted teddy bear in soft brown yarn with button eyes",
+    "description": "Meet your new best friend! This adorable amigurumi teddy bear is hand-crocheted with soft, child-safe yarn and securely fastened safety eyes. Standing about 6 inches tall, it makes a wonderful gift for babies, kids, or anyone who loves handmade things.",
+    "shortDescription": "Adorable hand-crocheted teddy bear made with soft, child-safe yarn.",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": "market-bag-003",
+    "name": "Crochet Market Bag",
+    "price": 28,
+    "category": "accessories",
+    "image": "https://picsum.photos/seed/bag33/600/600",
+    "imageAlt": "A stretchy crocheted market bag in sage green cotton yarn",
+    "description": "Say goodbye to plastic bags! This roomy crochet market bag is made from durable cotton yarn that stretches to hold all your groceries. It folds up small enough to tuck in your purse and washes easily. Available in sage, terracotta, and natural.",
+    "shortDescription": "Eco-friendly, stretchy cotton market bag — fits more than you think!",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": "baby-booties-004",
+    "name": "Baby Booties",
+    "price": 18,
+    "category": "baby",
+    "image": "https://picsum.photos/seed/booties44/600/600",
+    "imageAlt": "Tiny crocheted baby booties in soft white yarn with a ribbon tie",
+    "description": "The sweetest little shoes for the sweetest little feet. These hand-crocheted baby booties are made with ultra-soft yarn that is gentle on delicate skin. Available in newborn and 0-3 month sizes. A perfect baby shower gift, lovingly wrapped.",
+    "shortDescription": "Ultra-soft hand-crocheted booties for newborns and infants.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": "flower-clips-005",
+    "name": "Flower Hair Clips Set",
+    "price": 14,
+    "category": "accessories",
+    "image": "https://picsum.photos/seed/flowers55/600/600",
+    "imageAlt": "A set of three crocheted flower hair clips in pink, lavender, and white",
+    "description": "Add a touch of handmade charm to any hairstyle. This set of three crochet flower hair clips comes in a coordinating trio of pastel shades: pink, lavender, and white. Each flower clips onto a standard alligator clip for easy wear. Great for all ages.",
+    "shortDescription": "Set of 3 pastel crochet flower hair clips — pink, lavender & white.",
+    "featured": false,
+    "available": false
+  },
+  {
+    "id": "ear-warmer-006",
+    "name": "Cozy Ear Warmer",
+    "price": 22,
+    "category": "accessories",
+    "image": "https://picsum.photos/seed/earwarmer66/600/600",
+    "imageAlt": "A crocheted ear warmer headband in dusty rose with a button closure",
+    "description": "Keep your ears cozy without the hat hair! This stretchy crochet ear warmer fits most head sizes and fastens with a vintage-style button. Handmade from a warm, soft acrylic-wool blend. Available in dusty rose, charcoal, and cream.",
+    "shortDescription": "Stretchy crochet headband that keeps ears warm — no hat hair!",
+    "featured": false,
+    "available": true
+  }
+]
