@@ -1,4 +1,4 @@
-# Crochet Shop Website — Technical Specification
+# Personal Portfolio Website — Technical Specification
 
 ## 1. Overview
 
