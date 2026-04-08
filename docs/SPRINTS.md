@@ -1,5 +1,16 @@
 # Crochet Shop — Sprint Plan
 
+Each sprint has its own file in `docs/sprints/`.
+
+| Sprint | Title | File |
+|--------|-------|------|
+| 1 | Project Setup & Data Foundation | [sprint-1.md](sprints/sprint-1.md) |
+| 2 | Shop Page & Product Card | [sprint-2.md](sprints/sprint-2.md) |
+| 3 | Product Detail Page | [sprint-3.md](sprints/sprint-3.md) |
+| 4 | Home Page | [sprint-4.md](sprints/sprint-4.md) |
+| 5 | About & Contact Pages | [sprint-5.md](sprints/sprint-5.md) |
+| 6 | Polish, Accessibility & Deployment | [sprint-6.md](sprints/sprint-6.md) |
+
 ---
 
 ## Sprint 1 — Project Setup & Data Foundation
